@@ -59,7 +59,7 @@ export default {
   created () { },
   data () {
     return {
-      mobile: '13911111111', // 数据写死
+      mobile: '13911223355', // 数据写死
       code: '246810',
       time: 5 * 1000, // time属性表示倒计时总时长
       iscountDownShow: false
